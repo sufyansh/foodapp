@@ -1,5 +1,5 @@
 import React from "react";
-import Cart from "../UI/Cart";
+import Cart from "../UI/Card";
 import classes from "./AvalaibleMeals..module.css";
 import MealItem from "./MealItem/MealItem";
 const Dummy_Meals = [
